@@ -11,7 +11,7 @@ pygame.display.set_caption("Игра Тир")
 icon = pygame.image.load("images/tom-clancy-s-rainbow-6-game.jpg")
 pygame.display.set_icon(icon)
 
-target_img = pygame.image.load("img/target.png")
+target_img = pygame.image.load("images/target.png")
 target_wigth = 80
 target_height = 80
 
